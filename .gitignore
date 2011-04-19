@@ -1,0 +1,6 @@
+*~
+*.swp
+build/
+*.pyd
+*.pyc
+examples/python/allegro.py
